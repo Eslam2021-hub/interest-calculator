@@ -1,0 +1,41 @@
+
+h1 {text-align: center;}
+
+.center {margin: auto;}
+h1 {
+    background-color: rgb(60, 255, 0);
+    margin: 0;
+    padding: 5px;
+    color:#630e79
+}
+div {
+    background-color: orange;
+    padding: 20px;
+    margin: 0;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+}
+input {
+    display: block;
+    margin-top: 10px;
+}
+input[type=number] {
+    height: 50px;
+    border: none;
+    background-color: rgb(241, 226, 13);
+    margin-bottom: 20px;
+    text-align: center;
+}
+span {
+    display: block;
+    margin: 15px;
+}
+button {
+display: block;
+margin-top: 30px;
+background-color: aqua;
+color: black;
+height: 50px;
+width: 100px;
+}
